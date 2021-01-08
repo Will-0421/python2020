@@ -9,6 +9,7 @@ ________("Hello, Python!")
 (A) print   (B) printf   (C) printline   (D) printn
 ```
 ```
+A : (A)
 2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
 
 #!/usr/bin/python3
@@ -18,6 +19,7 @@ print("Hello, Python!")
 (A)	/   (B) -   (C) #   (D) <!-->
 ```
 ```
+A : (C)
 3.要新建一個變數名稱為school，並將變數值設定為ksu，底下程式需填入:
 
 #!/usr/bin/python3
