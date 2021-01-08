@@ -20,7 +20,7 @@ print("Hello, Python!")
 (A)	/   (B) -   (C) #   (D) <!-->
 ```
 ```
-
+A：(C)
 3.要新建一個變數名稱為school，並將變數值設定為ksu，底下程式需填入:
 
 #!/usr/bin/python3
@@ -30,6 +30,7 @@ print("Hello, Python!")
 (C) (1)”ksu”，(2)school   (D) (1)ksu，(2)”school”  
 ```
 ```
+A：(D)
 4.要檢查變數資料型別 底下程式需使用哪個函數:
 
 #!/usr/bin/python3
@@ -40,6 +41,7 @@ print(______(y))
 
 ```
 ```
+A：(A)
 5.試問以下程式執行後輸出什麼:
 
 #!/usr/bin/python3
@@ -49,6 +51,7 @@ print(type(y))
 (A) <class 'int'>  (B) <class 'str'>  (C) <class 'float'>  (D) <class 'tuple'>
 ```
 ```
+A：(C)
 6.要在程式碼中進行資料型態轉換 底下程式需使用哪個函數將x轉換成float:
 
 #!/usr/bin/python3
@@ -58,6 +61,7 @@ ______(x)
 (A) long   (B) str   (C) float   (D)int
 ```
 ```
+A：(C)
 7.要計算一個字串長度 底下程式需使用哪個函數:
 
 #!/usr/bin/python3
@@ -67,6 +71,7 @@ print(___________(string1))
 (A) find   (B) len   (C) count   (D)replace
 ```
 ```
+A：(B)
 8.試問以下程式執行後輸出什麼結果:
 
 #!/usr/bin/python3
@@ -76,6 +81,7 @@ print(100 < 200)
 ```
 # 2.資料型態及其運算 DataType
 ```
+A：(B)
 9.要定義一個整數變數a  底下程式碼需填入什麼:
 #!/usr/bin/python3
 a = ___________
@@ -86,6 +92,7 @@ a = ___________
 (D) 1.0 * 1.0
 ```
 ```
+A：(D)
 10.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = bool(100)
