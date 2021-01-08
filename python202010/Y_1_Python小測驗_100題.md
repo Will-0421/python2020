@@ -1,6 +1,8 @@
 # Python小測驗_100題
 # 1.Python入門
 ```
+```
+A : (A)
 1.要在螢幕輸出Hello, Python!  底下程式需使用哪個函數:
 
 #!/usr/bin/python3
@@ -9,7 +11,7 @@ ________("Hello, Python!")
 (A) print   (B) printf   (C) printline   (D) printn
 ```
 ```
-A : (A)
+A : (C)
 2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
 
 #!/usr/bin/python3
@@ -19,7 +21,7 @@ print("Hello, Python!")
 (A)	/   (B) -   (C) #   (D) <!-->
 ```
 ```
-A : (C)
+
 3.要新建一個變數名稱為school，並將變數值設定為ksu，底下程式需填入:
 
 #!/usr/bin/python3
