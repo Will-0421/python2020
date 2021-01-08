@@ -1,7 +1,6 @@
 # Python小測驗_100題
 # 1.Python入門
 ```
-```
 A : (A)
 1.要在螢幕輸出Hello, Python!  底下程式需使用哪個函數:
 
@@ -11,7 +10,7 @@ ________("Hello, Python!")
 (A) print   (B) printf   (C) printline   (D) printn
 ```
 ```
-A : (C)
+A :(C)
 2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
 
 #!/usr/bin/python3
