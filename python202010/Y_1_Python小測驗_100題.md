@@ -104,6 +104,7 @@ print(a)
 (D) True
 ```
 ```
+A：(B)
 11.要在螢幕輸出變數x的資料型態  底下程式需使用哪個函數:
 #!/usr/bin/python3
 a = 100
@@ -112,6 +113,7 @@ print(_______(a))
 (A) any   (B) type   (C) complex   (D) bin
 ```
 ```
+A：(？？)
 12.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = “Python!”
@@ -120,6 +122,7 @@ print(type(a))
 (A) str   (B) int   (C) float   (D) tuple
 ```
 ```
+A：(D)
 13.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = ("Python", True, 1234)
@@ -128,6 +131,7 @@ print(type(a))
 (A) str   (B) int   (C) float   (D) tuple
 ```
 ```
+A：(D)
 14.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = ["Python", "True", "1234"]
@@ -136,6 +140,7 @@ print(type(a))
 (A) set   (B) dict   (C) list   (D) tuple
 ```
 ```
+A：(B)
 15.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = {"name" : "Eric", "age" : 90}
@@ -145,6 +150,7 @@ print(type(a))
 ```
 ## 字串1
 ```
+A：(A)
 16.試問若要定義一字串變數應填入什麼:
 
 #!/usr/bin/python3
@@ -157,6 +163,7 @@ print(a)
 (D) {"Hello Python"}
 ```
 ```
+A：(B)
 17.試問以下程式執行後輸出什麼結果:
 
 #!/usr/bin/python3
@@ -166,6 +173,7 @@ print(a[1])
 (A) H   (B) e   (C) l   (D) 1
 ```
 ```
+A：(A)
 18.要在螢幕輸出llo  底下程式需填入什麼:
 
 #!/usr/bin/python3
@@ -175,6 +183,7 @@ print(a[__________])
 (A) 4:6   (B) 3:5   (C) 2:5   (D) llo
 ```
 ```
+A：(B)
 19.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = "        HelloPython "
@@ -186,6 +195,7 @@ print(a.strip())
 (D) H e l l o P y t h o n
 ```
 ```
+A：()
 20.試問若要判斷Kun是否存在於txt字串中以下程式應填入什麼:
 #!/usr/bin/python3
 txt = " Kun Shan University was officially founded on April 29, 1965"
@@ -198,6 +208,7 @@ print(x)
 (D) in
 ```
 ```
+A：(B)
 21.試問若要輸出a、b兩字串合併後的結果以下程式應填入什麼:
 #!/usr/bin/python3
 a = “Kun Shan”
@@ -210,6 +221,7 @@ print(__________)
 (D) a,b
 ```
 ```
+A：(A)
 22.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = “Kun Shan”
@@ -223,6 +235,7 @@ print(a + b)
 ```
 ## 字串2
 ```
+A：(B)
 23.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = 'Kun Shan {}'
